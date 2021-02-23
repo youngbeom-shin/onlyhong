@@ -32,3 +32,5 @@ end
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.0", :install_if => Gem.win_platform?
 
+#jekyll生成书籍样式的插件
+gem "jekyll-books"
